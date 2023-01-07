@@ -1,0 +1,21 @@
+
+div {
+    margin-left: 100px; 
+    margin-right: 100px;
+    
+}
+
+
+.blue {
+    color: blue;
+    background-color: white;
+}
+
+
+h1 {
+    background-color: dimgrey;
+    color: black;
+    text-align: left;
+    padding-top: 2px;
+}
+
